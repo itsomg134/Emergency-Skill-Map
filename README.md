@@ -35,11 +35,11 @@ A real-time emergency response web application that connects people in need with
 ### Helper Categories
 | Icon | Skill | Description |
 |------|-------|-------------|
-|  | Doctor | Medical professionals |
-|  | Plumber | Plumbing emergencies |
-|  | Electrician | Electrical issues |
-|  | Blood Donor | Emergency blood donors |
-|  | First-aid | First-aid trained individuals |
+| 1 | Doctor | Medical professionals |
+| 2 | Plumber | Plumbing emergencies |
+| 3 | Electrician | Electrical issues |
+| 4 | Blood Donor | Emergency blood donors |
+| 5 | First-aid | First-aid trained individuals |
 
 ##  Tech Stack
 
@@ -124,7 +124,7 @@ npm start
 http://localhost:3000
 ```
 
-## 📱 Usage
+##  Usage
 
 ### Finding Help
 1. Open the application
@@ -152,7 +152,7 @@ http://localhost:3000
 -  **Red** - Blood Donor
 -  **Gray** - First-aid Trained
 
-## 🔌 API Endpoints
+## API Endpoints
 
 ### GET /helpers
 Fetch all registered helpers
@@ -244,7 +244,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - OpenStreetMap contributors
 - All the helpers who make this platform valuable
 
-## 📞 Support
+## Contact
 
-For support, email support@emergencyskillmap.com or create an issue in the GitHub repository.
+Om Gedam
 
+GitHub: @itsomg134
+
+Email: omgedam123098@gmail.com
+
+Twitter (X): @omgedam
+
+LinkedIn: Om Gedam
+
+Portfolio: https://ogworks.lovable.app
